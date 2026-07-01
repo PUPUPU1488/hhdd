@@ -1,0 +1,11 @@
+D:\Проги\PROJECTS_VS\The Kingdom\The Kingdom\bin\Debug\The Kingdom.exe.config
+D:\Проги\PROJECTS_VS\The Kingdom\The Kingdom\bin\Debug\The Kingdom.exe
+D:\Проги\PROJECTS_VS\The Kingdom\The Kingdom\bin\Debug\The Kingdom.pdb
+D:\Проги\PROJECTS_VS\The Kingdom\The Kingdom\obj\Debug\The Kingdom.csproj.AssemblyReference.cache
+D:\Проги\PROJECTS_VS\The Kingdom\The Kingdom\obj\Debug\The_Kingdom.Form1.resources
+D:\Проги\PROJECTS_VS\The Kingdom\The Kingdom\obj\Debug\The_Kingdom.Properties.Resources.resources
+D:\Проги\PROJECTS_VS\The Kingdom\The Kingdom\obj\Debug\The Kingdom.csproj.GenerateResource.cache
+D:\Проги\PROJECTS_VS\The Kingdom\The Kingdom\obj\Debug\The Kingdom.csproj.CoreCompileInputs.cache
+D:\Проги\PROJECTS_VS\The Kingdom\The Kingdom\obj\Debug\The Kingdom.exe
+D:\Проги\PROJECTS_VS\The Kingdom\The Kingdom\obj\Debug\The Kingdom.pdb
+D:\Проги\PROJECTS_VS\The Kingdom\The Kingdom\obj\Debug\The Kingdom.exe.config
